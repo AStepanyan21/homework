@@ -22,3 +22,9 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 ## Remove Duplicates
 
 Given a sorted array nums, remove the duplicates in-place such that each element appears only once and returns the new length
+
+## Largest prime factor
+
+The prime factors of 13195 are 5, 7, 13 and 29.
+
+What is the largest prime factor of the number 600851475143 ?
