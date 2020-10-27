@@ -3,7 +3,7 @@
 using namespace std;
 
 class Bitset {
-    private:
+private:
         int array_length;
         vector<long long> bitset_array;
         int length;
