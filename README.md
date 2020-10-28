@@ -71,3 +71,8 @@ Given `n` pairs of parentheses, write a function to generate all combinations of
 Input: n = 3
 Output: ["((()))","(()())","(())()","()(())","()()()"]
 ```
+## Smallest multiple
+
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+
+What is the smallest positive number that is *evenly divisible* by all of the numbers from 1 to 20?
