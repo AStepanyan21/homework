@@ -48,3 +48,14 @@ M             1000
 For example, `2` is written as `II` in Roman numeral, just two one's added together. `12` is written as `XII`, which is simply `X + II`. The number `27` is written as `XXVII`, which is `XX + V + II`.
 
 Given an integer, convert it to a roman numeral.
+
+
+## Pow(x, n)
+
+Implement `pow(x, n)`, which calculates x raised to the power *n*(i.e. x^n).
+
+## 3Sum
+
+Given an array **nums** of n integers, are there elements `a`, `b`, `c` in **nums** such that `a + b + c = 0?` Find all unique triplets in the array which gives the sum of `zero`.
+
+Notice that the solution set must not contain duplicate triplets.
