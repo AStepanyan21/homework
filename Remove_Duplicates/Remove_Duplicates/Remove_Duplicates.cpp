@@ -11,8 +11,6 @@
             if (nums[i] != nums[i + 1])
                 temp[j++] = nums[i];
         temp[j++] = nums[n - 1];
-        for (int i = 0; i < j; i++)
-            nums[i] = temp[i];
         return j;
 };
 
